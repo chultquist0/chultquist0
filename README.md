@@ -1,9 +1,7 @@
-- 🔭 I’m currently working on physics
-- 🌱 I’m currently learning RANSAC Algorithms
-- 👯 I’m looking to collaborate on anything and everything
-- 🤔 I’m looking for help with life
+- 🔭 I’m currently working on Nuclear Physics
+- 🌱 I’m currently learning RANSAC Algorithm Applications
 - 💬 Ask me about anything and everything that I can look up on Wikipedia
-- 📫 How to reach me: Pigeon
+- 📫 How to reach me: <a href = "mailto: hultqui5@msu.edu">Email!</a>
 - 😄 Pronouns: He/Him
 
 <!--
