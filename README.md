@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Nuclear Physics
-- 🌱 I’m currently learning RANSAC Algorithm Applications
+- 🌱 I’m currently learning Multi-Dimensional CNN's
 - 💬 Ask me about anything and everything that I can look up on Wikipedia
 - 📫 How to reach me: <a href = "mailto: hultqui5@msu.edu">Email!</a>
 - 😄 Pronouns: He/Him
